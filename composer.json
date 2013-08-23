@@ -6,8 +6,8 @@
     "authors": [
         {
             "name": "Desire2learn",
-            "email": "d2lextensibilityutil@desire2learn.com"
-			"homepage": "http://docs.valence.desire2learn.com/",
+            "email": "d2lextensibilityutil@desire2learn.com",
+			"homepage": "http://docs.valence.desire2learn.com/"
         }
     ],
     "minimum-stability": "dev",
