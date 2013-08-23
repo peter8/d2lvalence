@@ -1,11 +1,13 @@
 {
     "name": "d2l/d2lvalence",
     "description": "Client library for PHP",
+	"keywords": ["d2l","valence","d2lvalence","sdk"],
     "license": "Apache 2.0",
     "authors": [
         {
             "name": "Desire2learn",
             "email": "d2lextensibilityutil@desire2learn.com"
+			"homepage": "http://docs.valence.desire2learn.com/",
         }
     ],
     "minimum-stability": "dev",
