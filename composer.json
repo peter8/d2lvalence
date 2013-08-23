@@ -1,0 +1,15 @@
+{
+    "name": "d2l/d2lvalence",
+    "description": "Client library for PHP",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Desire2learn",
+            "email": "d2lextensibilityutil@desire2learn.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
